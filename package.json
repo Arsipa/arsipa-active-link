@@ -1,0 +1,27 @@
+{
+  "name": "arsipa-active-link",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Add class to active link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsipa/arsipa-active-link.git"
+  },
+  "keywords": [
+    "arsipa",
+    "active",
+    "active-link",
+    "link",
+    "link-active"
+  ],
+  "author": "arsipa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arsipa/arsipa-active-link/issues"
+  },
+  "homepage": "https://github.com/Arsipa/arsipa-active-link#readme"
+}

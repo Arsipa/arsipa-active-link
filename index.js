@@ -1,0 +1,1 @@
+document.querySelectorAll("a").forEach(link => {(link.href == document.URL) && (link.classList.add("arsipa-active-link"))})
