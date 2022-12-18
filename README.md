@@ -5,7 +5,7 @@ Simple js script that adds "**_arsipa-active-link_**" class to the <a> tag if th
 
 ```npm -i arsipa-active-link```
 ## Add script
-```<script src="node_modules/arsipa-active-link/index.js"></script>```
+```<script src="node_modules/arsipa-active-link/arsipa-active-page.js"></script>```
 ## Style
 ```.arsipa-active-page { color: red; }```
 ## Preview
